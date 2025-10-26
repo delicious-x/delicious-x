@@ -1,45 +1,60 @@
-## Hi there 👋
 <div align="center">
-  <!-- dynamic typing effect 动态打字效果 -->
+
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+
+<!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://juejin.cn/user/2999123453427207">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=print(%22Hello%2C%20World%22);原来浮生万物里,所有的重逢都不如相遇!&center=true&size=27" />
-    </a>
+    <a href="https://juejin.cn/user/2999123453427207"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <img src="https://komarev.com/ghpvc/?username=delicious-x&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
+
 </div>
 
-  ---
+#  🙋 Hello
 
-<!--
-**delicious-x/delicious-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  
+<tr><td>
 
-Here are some ideas to get you started:
+### 🤺 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
-  <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
-</a>
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
----
-
-### Skills
+<p>&emsp;&emsp;嗨，我是廉恒凯（delicious-x）。热爱编程、读书、体育、旅行。</p>
+<p>&emsp;&emsp;想要“烹饪”美味佳肴，从零开始写 浏览器原理 + 网络协议 + 工程化 + 前端框架 +......</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=vscode,js,html,css,react,jestwebpack,nodejs,babel,electron,ai,jest" />
   </a>
 </p>
 
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+</td></tr>
+
+<tr><td>
+
 ---
 
-### About My Github
+## 📊 GitHub 数据统计
+
+<!-- metrics 基础资料 -->
+
+
+<!-- GitHub 数据统计 -->
+
 <div align="center">
   <table style="width:100%;">
     <tr>
@@ -61,4 +76,6 @@ Here are some ideas to get you started:
   </table>
 </div>
 
----
+
+
+
