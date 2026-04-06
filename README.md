@@ -29,7 +29,7 @@
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
-<p>&emsp;&emsp;嗨，我是廉恒凯（delicious-x）。热爱编程、读书、体育、旅行。</p>
+<p>&emsp;&emsp;嗨，我是（delicious-x）。热爱编程、读书、体育、旅行。</p>
 <p>&emsp;&emsp;想要“烹饪”美味佳肴，从零开始写 浏览器原理 + 网络协议 + 工程化 + 前端框架 +......</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
@@ -60,7 +60,7 @@
     <tr>
       <!-- 第一个图片 -->
       <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api?username=delicious-x&show_icons=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" />
       </td>
       <!-- 第二个图片 -->
       <td align="center">
