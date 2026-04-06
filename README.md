@@ -35,7 +35,7 @@
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,js,html,css,react,jestwebpack,nodejs,babel,electron,ai,jest" />
+    <img src="https://skillicons.dev/icons?i=vscode,js,html,css,react,jest,webpack,nodejs,babel,electron,ai&theme=light" />
   </a>
 </p>
 
@@ -50,32 +50,24 @@
 
 ## 📊 GitHub 数据统计
 
-<!-- metrics 基础资料 -->
-
-
-<!-- GitHub 数据统计 -->
-
 <div align="center">
-  <table style="width:100%;">
-    <tr>
-      <!-- 第一个图片 -->
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" />
-      </td>
-      <!-- 第二个图片 -->
-      <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=delicious-x&layout=compact" />
-      </td>
-    </tr>
-    <!-- 第三个图片 -->
-    <tr>
-      <td colspan="2" align="center">
-        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=delicious-x&theme=github-compact&hide_border=true&area=true" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f8fafc,50:f1f5f9,100:e2e8f0&height=70&section=header&text=Stay%20Hungry%20%20·%20%20Stay%20Foolish&fontColor=334155&fontSize=24&fontAlignY=50&animation=fadeIn" />
 </div>
 
+<br />
 
+<div align="center">
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=delicious-x&hide_border=true&background=FFFFFF00&ring=f59e0b&fire=f97316&currStreakLabel=0f172a&sideLabels=475569&currStreakNum=0f172a&sideNums=0f172a&dates=94a3b8"
+  />
+</div>
 
+<div align="center">
+  <img
+    width="92%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=delicious-x&theme=github-compact&hide_border=true&area=true&radius=8&color=475569&line=f59e0b&point=f97316&area_color=fde68a&title_color=0f172a"
+  />
+</div>
 
+<br />
